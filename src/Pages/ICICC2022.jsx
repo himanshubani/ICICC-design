@@ -17,7 +17,7 @@ const ICICC2022 = () => {
      conference including authors, keynotes, delegates, academicians, and industry experts. ICICC-2022 received papers from 30 countries.
       Due to unexpected COVID-19, ICICC-2022 was organized in hybrid mode.</p>
     <h1 className=' text-blue-950 text-3xl mt-8'>LINK OF PROCEEDINGS OF ICICC 2022</h1><br/>
-    <div className=' overflow-scroll'>
+    <div className=' overflow-scroll sm:overflow-hidden'>
     <table className='mb-6 mt-7'>
     <tbody>
         <tr  className='hover:bg-gray-300'>

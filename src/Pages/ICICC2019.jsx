@@ -38,6 +38,7 @@ const ICICC2019 = () => {
             LINK OF PROCEEDINGS OF ICICC 2019
           </h1>
           <br />
+          <div className="overflow-scroll sm:overflow-hidden">
           <table className="mb-6 mt-7">
             <tbody>
               <tr className="hover:bg-gray-300">
@@ -68,6 +69,7 @@ const ICICC2019 = () => {
               </tr>
             </tbody>
           </table>
+          </div>
           <h1 className=" absolute bottom-0 sm:left-[18rem] font-bold text-blue-950 text-4xl ">
             IMAGE GALLERY
           </h1>
