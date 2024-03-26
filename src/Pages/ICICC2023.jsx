@@ -10,7 +10,7 @@ const ICICC2023 = () => {
     <div className='sm:flex justify-around ml-10 '>
     <div className=' mt-10 flex-col mb-10'>
     <h1 className=' text-blue-950 text-3xl'>LINK OF PROCEEDINGS OF ICICC 2023</h1><br/>
-    <div className=' overflow-scroll'>
+    <div className=' overflow-scroll sm:overflow-hidden'>
     <table className='mb-6 mt-7'>
     <tbody>
         <tr  className='hover:bg-gray-300'>

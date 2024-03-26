@@ -22,6 +22,7 @@ Once Your paper is accepted, the registration process begins. you have to comple
 7)Banquet</p>
     <div className='w-10/12 m-auto flex-col content-center border-black border-[1px] '>
     <div className='text-center font-bold text-lg mt-5'>Pay via Bank Transfer</div>
+    <div className="overflow-scroll sm:overflow-hidden">
 
       <table className='table1 m-auto  sm:w-10/12 mt-5'>
         <tr>
@@ -52,7 +53,7 @@ Once Your paper is accepted, the registration process begins. you have to comple
           <td>ACCOUNT TYPE</td>
           <td>CURRENT</td>
         </tr>
-      </table>
+      </table></div>
       <div className='w-10/12 h-[1px] m-auto mt-4 bg-gray-400'></div><br/>
       <div className='text-center font-bold text-lg '>Pay via Paypal</div>
       <div className='text-center  '>For Payment from International Authors/Attendees, use the following paypal link with additional 5% service charges applies</div><br/>
@@ -81,7 +82,7 @@ Once Your paper is accepted, the registration process begins. you have to comple
 
 
     </div>
-    <div className="w-[90%] overflow-scroll m-auto">
+    <div className="w-[90%] overflow-scroll sm:overflow-hidden m-auto">
           <table className='table1 m-auto w-[90%] sm:w-10/12 mt-11'>
         <thead>
         
@@ -134,7 +135,7 @@ Once Your paper is accepted, the registration process begins. you have to comple
         </tbody>
       </table>
       </div>
-      <div className="w-[90%] overflow-scroll m-auto">
+      <div className="w-[90%] overflow-scroll sm:overflow-hidden m-auto">
       <table className=' table1 m-auto sm:w-10/12 mt-11'>
         <thead>
         
